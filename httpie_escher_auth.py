@@ -6,7 +6,7 @@ from httpie.plugins import AuthPlugin
 
 from escherauth.escherauth import EscherRequestsAuth
 
-__version__ = '0.1.0'
+__version__ = '0.2.0'
 __author__ = 'Julien Barbot'
 __license__ = 'Cisco'
 

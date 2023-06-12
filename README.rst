@@ -8,7 +8,7 @@ Installation
 
 .. code-block:: bash
 
-    $ pip install https://github.com/klyr/httpie-escher-auth/releases/download/0.1.0/httpie_escher_auth-0.1.0-py3-none-any.whl
+    $ pip install https://github.com/klyr/httpie-escher-auth/releases/download/0.2.0/httpie_escher_auth-0.2.0-py3-none-any.whl
 
 Example usage
 -------------
